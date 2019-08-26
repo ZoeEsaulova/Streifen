@@ -1,0 +1,10 @@
+#Folders
+/bin/
+/target/
+/.externalToolBuilders/
+/.settings/
+
+#Files
+*.class
+*.log
+*.settings
